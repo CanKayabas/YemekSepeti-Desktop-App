@@ -1,0 +1,12 @@
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\bin\Debug\YemekSepeti Desktop App.exe.config
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\bin\Debug\YemekSepeti Desktop App.exe
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\bin\Debug\YemekSepeti Desktop App.pdb
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\bin\Debug\Guna.UI2.dll
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\obj\Debug\YemekSepeti Desktop App.csproj.AssemblyReference.cache
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\obj\Debug\YemekSepeti_Desktop_App.Properties.Resources.resources
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\obj\Debug\YemekSepeti_Desktop_App.YemekSepeti.resources
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\obj\Debug\YemekSepeti Desktop App.csproj.GenerateResource.cache
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\obj\Debug\YemekSepeti Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\obj\Debug\YemekSepeti Desktop App.csproj.CopyComplete
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\obj\Debug\YemekSepeti Desktop App.exe
+C:\Users\Erebos\source\repos\YemekSepeti Desktop App\YemekSepeti Desktop App\obj\Debug\YemekSepeti Desktop App.pdb
